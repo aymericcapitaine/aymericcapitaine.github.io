@@ -22,7 +22,7 @@ repository               : "aymericcapitaine/aymericcapitaine.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "162287 (1).jpg"
+  avatar           : "picture.jpg"
   name             : "Aymeric Capitaine"
   pronouns         : # example: "she/her"  
   bio              : "2nd year PhD student"
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "aymericcapitaine"
+  github           : # username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #username
 facebook:
   username               :
   app_id                 :
