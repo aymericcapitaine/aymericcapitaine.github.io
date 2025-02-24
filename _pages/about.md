@@ -12,13 +12,18 @@ I study decision-making under uncertainty in multi-agent systems, at the interse
 
 I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.  
 
+Preprints.
+======
+[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) *under review*.
+**Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
+
 Publications.
 ======
-[**Unravelling in Collaborative Learning**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
+[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
 **Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
 
 [**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (**Spotlight**).
-Scheid, A., Capitaine, A., Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
+Scheid, A., **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
 
 [**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
 Scheid, A., Tiapkin, D., Boursier, E., **Capitaine, A.**, Mhamdi, E., Moulines, Jordan, M., Durmus, A.
