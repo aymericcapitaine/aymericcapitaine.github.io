@@ -10,4 +10,16 @@ Hi everyone! I am a second year PhD student at [Ecole Polytechnique (CMAP)](http
 
 I study decision-making under uncertainty in multi-agent systems, at the intersection of Game Theory, Online Optimization and Statistical Learning. 
 
-I also serve as the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.  
+I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.  
+
+Publications.
+======
+[**Unravelling in Collaborative Learning**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
+**Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
+
+[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (**Spotlight**).
+Scheid, A., Capitaine, A., Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
+
+[**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
+Scheid, A., Tiapkin, D., Boursier, E., **Capitaine, A.**, Mhamdi, E., Moulines, Jordan, M., Durmus, A.
+
