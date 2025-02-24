@@ -1,12 +1,8 @@
 ---
 title: "Unravelling in Collaborative Learning"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-12-11
-venue: 'Neurips 2024.'
+venue: 'Neurips.'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2407.14332)'
-citation: 'Capitaine, A., Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. (2025). Unravelling in Collaborative Learning. Advances in Neural Information Processing Systems, 37, 97231-97260.'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
