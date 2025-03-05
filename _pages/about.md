@@ -12,6 +12,8 @@ I study decision-making under uncertainty in multi-agent systems, at the interse
 
 I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.  
 
+You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
+
 Preprints.
 ======
 [**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) *under review*.
