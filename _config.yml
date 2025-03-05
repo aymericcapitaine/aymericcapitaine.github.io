@@ -25,7 +25,7 @@ author:
   avatar           : "picture.jpg"
   name             : "Aymeric Capitaine"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year PhD student"
+  bio              : "firstname'dot'lastname'at'polytechnique'dot'edu "
   location         : "Paris, France"
   employer         : "Ecole Polytechnique, CMAP"
   uri              : # URL
