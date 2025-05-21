@@ -21,15 +21,15 @@ Preprints.
 
 Publications.
 ======
-[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) in *_ICML 2025_*.
+[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) in *ICML 2025*.
 **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
 
-[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *_Neurips 2024_*. 
+[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
 **Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
 
-[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *_Neurips 2024_* (**Spotlight**).
+[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (**Spotlight**).
 Scheid, A., **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
 
-[**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *_ICML 2024_*.
+[**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
 Scheid, A., Tiapkin, D., Boursier, E., **Capitaine, A.**, Mhamdi, E., Moulines, Jordan, M., Durmus, A.
 
