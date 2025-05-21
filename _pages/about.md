@@ -16,17 +16,20 @@ You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
 Preprints.
 ======
-[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) *under review*.
-**Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
+[**Online Decision-Focused Learning.**](https://arxiv.org/abs/2505.13564) *under review*.
+**Capitaine, A.**, Haddouche M. , Moulines, E., Jordan, M. I., Boursier, E. & Durmus, A.
 
 Publications.
 ======
-[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
+[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) in *_ICML 2025_*.
+**Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
+
+[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *_Neurips 2024_*. 
 **Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
 
-[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (**Spotlight**).
+[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *_Neurips 2024_* (**Spotlight**).
 Scheid, A., **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
 
-[**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
+[**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *_ICML 2024_*.
 Scheid, A., Tiapkin, D., Boursier, E., **Capitaine, A.**, Mhamdi, E., Moulines, Jordan, M., Durmus, A.
 
