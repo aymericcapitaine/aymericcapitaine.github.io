@@ -14,6 +14,8 @@ I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.
 
 You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
+**I am currently looking for postdoctoral opportunities. Do not hesitate to reach out !**
+
 Preprints.
 ======
 [**Online Decision-Focused Learning.**](https://arxiv.org/abs/2505.13564) *under review*.
