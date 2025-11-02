@@ -14,7 +14,7 @@ I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.
 
 You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
-**I am currently looking for postdoctoral opportunities. Do not hesitate to reach out !**
+**I am currently looking for a postdoctoral or research scientist position. Do not hesitate to reach out !**
 
 Preprints.
 ======
