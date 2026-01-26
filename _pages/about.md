@@ -14,22 +14,18 @@ I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.
 
 You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
-**I am currently looking for a postdoctoral or research scientist position. Do not hesitate to reach out !**
-
-Preprints.
-======
-[**Online Decision-Focused Learning.**](https://arxiv.org/abs/2505.13564) *under review*.
-**Capitaine, A.**, Haddouche M. , Moulines, E., Jordan, M. I., Boursier, E. & Durmus, A.
-
 Publications.
 ======
+[**Online Decision-Focused Learning.**](https://arxiv.org/abs/2505.13564) in *ICLR 2026*.
+**Capitaine, A.**, Haddouche M. , Moulines, E., Jordan, M. I., Boursier, E. & Durmus, A.
+
 [**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) in *ICML 2025*.
 **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
 
 [**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
 **Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
 
-[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (**Spotlight**).
+[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (<span style="color:#d62728; font-weight:600;">Spotlight</span>).
 Scheid, A., **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
 
 [**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
