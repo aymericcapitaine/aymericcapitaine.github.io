@@ -8,24 +8,29 @@ redirect_from:
 ---
 Hi! I am a third year PhD student at [Ecole Polytechnique](https://cmap.ip-paris.fr/) and [Inria Paris](https://www.inria.fr/fr/sierra). I work under the supervision of [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), [Alain Durmus](https://scholar.google.fr/citations?user=nqLKv6EAAAAJ&hl=fr) and [Etienne Boursier](https://eboursier.github.io/). Before that, I graduated from the [Ecole Normale Supérieure, Paris](https://www.ens.psl.eu/) in Economics and Statistics.
 
-I study decision-making under uncertainty in multi-agent systems, at the intersection of Game Theory, Online Optimization and Statistical Learning. 
+I study decision-making under uncertainty in multi-agent systems, at the intersection of game theory, online optimization and statistical learning. 
 
-I am the Project Manager of the [Ocean](https://oceanerc.com/) ERC project.  
+I am the project manager of the [Ocean](https://oceanerc.com/) ERC project.  
 
 You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
+Preprints.
+======
+[**Test-then-Punish: A Statistical Approach to Repeated Games**](https://arxiv.org/abs/2603.05619).
+**Capitaine, A.**, Scheid A., Boursier, E., Durmus, A., & Jordan, M. I.
+
 Publications.
 ======
-[**Online Decision-Focused Learning.**](https://arxiv.org/abs/2505.13564) in *ICLR 2026*.
+[**Online Decision-Focused Learning**](https://arxiv.org/abs/2505.13564) in *ICLR 2026*.
 **Capitaine, A.**, Haddouche M. , Moulines, E., Jordan, M. I., Boursier, E. & Durmus, A.
 
-[**Prediction-Aware Learning in Multi-agent Systems.**](https://arxiv.org/abs/2501.19144) in *ICML 2025*.
+[**Prediction-Aware Learning in Multi-agent Systems**](https://arxiv.org/abs/2501.19144) in *ICML 2025*.
 **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A.
 
-[**Unravelling in Collaborative Learning.**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
+[**Unravelling in Collaborative Learning**](https://arxiv.org/abs/2407.14332) in *Neurips 2024*. 
 **Capitaine, A.**, Boursier, E., Scheid, A., Moulines, E., Jordan, M., El-Mhamdi, E. M., & Durmus, A. 
 
-[**Learning to mitigate externalities: the coase theorem with hindsight rationality.**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (<span style="color:#d62728; font-weight:600;">Spotlight</span>).
+[**Learning to mitigate externalities: the coase theorem with hindsight rationality**](https://arxiv.org/abs/2406.19824) in *Neurips 2024* (<span style="color:#d62728; font-weight:600;">Spotlight</span>).
 Scheid, A., **Capitaine, A.**, Boursier, E., Moulines, E., Jordan, M. I., & Durmus, A
 
 [**Incentivized Learning in Principal-Agent Bandit Games**](https://arxiv.org/abs/2403.03811) in *ICML 2024*.
