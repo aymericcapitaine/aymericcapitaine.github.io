@@ -22,12 +22,12 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpg"
+  avatar           : "f8fe0679-2013-41ad-b4d4-9eeec4e91ef8.jpg"
   name             : "Aymeric Capitaine"
   pronouns         : # example: "she/her"  
-  bio              : "3rd year PhD student"
-  location         : "Paris, France"
-  employer         : "Ecole Polytechnique, CMAP"
+  bio              : "Postdoc researcher"
+  location         : "Lausanne, Switzerland"
+  employer         : "EPFL"
   uri              : # URL
   email            : # mail
 
