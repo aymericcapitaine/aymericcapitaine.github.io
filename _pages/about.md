@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third year PhD student at [Ecole Polytechnique](https://cmap.ip-paris.fr/) and [Inria Paris](https://www.inria.fr/fr/sierra). I work under the supervision of [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), [Alain Durmus](https://scholar.google.fr/citations?user=nqLKv6EAAAAJ&hl=fr) and [Etienne Boursier](https://eboursier.github.io/). Before that, I graduated from the [Ecole Normale Supérieure, Paris](https://www.ens.psl.eu/) in Economics and Statistics.
+Hi! I am a postdoc researcher in the [Sycamore](https://www.epfl.ch/labs/sycamore/) team at EPFL. I hold a PhD from Ecole Polytechnique where I worked under the supervision of Michael I. Jordan, Alain Durmus and Etienne Boursier. Before that, I graduated from the Ecole Normale Supérieure PSL in Statistics and Economics.
 
 I study decision-making under uncertainty in multi-agent systems, at the intersection of game theory, online optimization and statistical learning. 
-
-I am the project manager of the [Ocean](https://oceanerc.com/) ERC project.  
 
 You can reach me at *firstname 'dot' lastname 'at' polytechnique 'dot' edu*.
 
